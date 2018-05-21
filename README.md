@@ -1,4 +1,4 @@
-# Welcome to my Azure Repo
+# Welcome to my Azure-Project Repo
 
 This repo will contain Azure projects, scripts and templates that I work on and think others will find useful. 
 
