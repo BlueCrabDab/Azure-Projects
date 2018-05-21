@@ -7,7 +7,7 @@ Please feel free to reach out to me with any questions or comments about any of 
 
 ## Bio
 
-I am a Cloud Solution Architect at Microsoft who has worked in the field for about 22 years. The last 6 have been focused on Azure. I have a background in Security, Networking and Application Architecture so you will find most projects I place here have something to do with those areas (but not limited to those).
+I am a Cloud Solution Architect at Microsoft who has worked in the field for about 22 years. The last 6 years have been focused on Azure. I have a background in Security, Identity, Networking and Application Architecture so you will find most projects I place here have something to do with those areas (but not limited to those).
 
 Thanks,
 Joe
